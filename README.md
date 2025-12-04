@@ -160,3 +160,21 @@ Unidades como **Loja_13**, **Loja_7** e **Loja_18** apresentam alto potencial de
   - medidas DAX  
   - construção do dashboard  
   - design e layout visual  
+
+
+  ## 📂 Como Abrir o Projeto
+
+Para explorar o dashboard:
+
+1. Baixe o arquivo **Sales_Dashboard.pbix** disponível neste repositório.
+2. Abra o arquivo utilizando o **Microsoft Power BI Desktop**.
+3. Certifique-se de que todos os arquivos de origem (tabelas Excel) estejam na mesma estrutura de pastas, para que o Power BI consiga atualizar os dados sem erro.
+
+---
+
+## ✔️ Pré-requisitos
+
+Para executar ou modificar este projeto, você precisará de:
+
+- **Power BI Desktop** (versão 2023 ou superior recomendada)
+- **Microsoft Excel** (para visualizar ou editar os dados brutos)
