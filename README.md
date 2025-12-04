@@ -9,7 +9,7 @@ O resultado é um dashboard interativo, moderno e intuitivo, que oferece KPIs es
 
 ## Dashboard Overview
 
-![Dashboard Screenshot](images/Dashboard.png)
+![Dashboard Screenshot](Images/Dashboard.png)
 
 ## 🗂️ Estrutura dos Dados
 
