@@ -7,6 +7,10 @@ O resultado é um dashboard interativo, moderno e intuitivo, que oferece KPIs es
 
 ---
 
+## Dashboard Overview
+
+![Dashboard Screenshot](images/Dashboard.png)
+
 ## 🗂️ Estrutura dos Dados
 
 Foram utilizadas **3 tabelas**:
