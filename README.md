@@ -7,7 +7,7 @@ O resultado é um dashboard interativo, moderno e intuitivo, que oferece KPIs es
 
 ## 🔗 Acesse o Dashboard
 
-**Dashboard disponível em:** [Clique aqui para visualizar](https://app.powerbi.com/view?r=eyJrIjoiZDBhNTgzZWQtM2I5Mi00OGZkLWE0ZmUtM2RiYjI1ZDFhOGM3IiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9)
+**Dashboard disponível em:** [Clique aqui para visualizar](https://app.powerbi.com/view?r=eyJrIjoiMzg5MGM2OGMtY2NhMy00MWFhLWE4YzctMGJkNTdjZTVhNDk0IiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9)
 
 ---
 
